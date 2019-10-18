@@ -1,0 +1,30 @@
+#EXTM3U
+
+#EXTINF:-1,Hirschmilch - Hirschmilch
+https://hirschmilch.de:7001/psytrance.mp3
+
+#EXTINF:-1, laut.fm Psytrancelicious
+http://stream.laut.fm:80/psytrancelicious
+
+#EXTINF:-1, Anima Amoris - Goa Psy Trance
+http://amoris.sknt.ru/goa.mp3
+
+#EXTINF:-1, Goanight
+https://goanight.stream.laut.fm/goanight
+
+#EXTINF:-1, Laut.rm Goa Channel One
+http://laut.fm/goa-channel-one
+
+#EXTINF:-1, Psystation -Classic Goa
+http://hestia2.cdnstream.com/1458_128
+
+#EXTINF:-1, Radio Caprice - Goa trance
+http://79.120.39.202:9105/
+
+#EXTINF:-1, Radio Record GOA/PSY
+http://air.radiorecord.ru:8102/goa_320
+
+#EXTINF:-1, RuPsy - Goa trance
+http://goa.rupsy.ru:8000/goa
+
+
